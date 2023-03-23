@@ -1,0 +1,34 @@
+#parallax-bg {
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: -1;
+    /* Add more styles as needed */
+
+    
+  }
+  
+  
+  
+
+
+
+#parallax-bg-2{
+    height: 50%;
+    background-image: url('/public/images/bg4.png'); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* #parallax-bg-3{
+    height: 50%;
+    background-image: url('/public/images/bg4.png'); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    z-index: -1;
+  } */
